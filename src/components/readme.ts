@@ -63,7 +63,7 @@ export const updateReadme = (
           (s, idx) =>
             `| ${s.name} | [${s.f_name}.m3u](./${s.f_name}.m3u ) <br> [${s.f_name
             }.txt](./txt/${s.f_name}.txt ) | [List for ${s.name}](./list/${s.f_name
-            }.list ) | ${sources_res?.[idx]?.[1] === undefined
+            }.list.md ) | ${sources_res?.[idx]?.[1] === undefined
               ? "update failed"
               : sources_res[idx][1]
             } | ${sources_res?.[idx]?.[0] === "rollback" ? "✅" : "-"} |`
@@ -89,4 +89,5 @@ export const updateReadme = (
     fs.mkdirSync(path.join(path.resolve(), "dist"));
   }
   fs.writeFileSync(path.join(path.resolve(), "dist", "README.md"), after);
+
 };
