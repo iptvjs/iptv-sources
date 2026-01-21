@@ -47,7 +47,7 @@ jobs:
         with:
           branch: gh-pages
           folder: ./dist
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PUBLISH_DOCS }}
           single-commit: true  
       
       - name: Commit project 🐱‍🏍
@@ -62,5 +62,5 @@ jobs:
         if: steps.verify_diff.outputs.changed == 'true'
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN  }}
+          github_token: ${{ secrets.PUBLISH_DOCS }}
           branch: main 
