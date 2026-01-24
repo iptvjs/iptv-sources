@@ -27,7 +27,7 @@
 | 19 | [BD]viutvsix | stream1.freetv.fun | <https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.m3u8> |
 | 20 | [BD]now直播 | stream1.freetv.fun | <https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8> |
 | 21 | [BD]snap | stream1.freetv.fun | <https://stream1.freetv.fun/1dad0882045d6c9065bc63bc343aeb79d12a7bc07104336818f2b841c1fae70b.m3u8> |
-| 22 | [BD]明珠 | stream1.freetv.fun | <https://stream1.freetv.fun/9355776363cced50b636fb90bd1d63ba128a62b87206583d553b215847a74d2d.ctv> |
+| 22 | [SD]明珠 | stream1.freetv.fun | <https://stream1.freetv.fun/9355776363cced50b636fb90bd1d63ba128a62b87206583d553b215847a74d2d.ctv> |
 | 23 | [BD]明珠 | stream1.freetv.fun | <https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv> |
 | 24 | [VGA]Star Chinese *a | stream1.freetv.fun | <https://stream1.freetv.fun/88a3ad7016752debc54a84443b6ac87255f92a92dcf0d0c01499f620e1bf824d.m3u8> |
 | 25 | [BD]星空国际 | stream1.freetv.fun | <https://stream1.freetv.fun/75e262d43778a32cb887d4ede15dc972143a0522e4d89a81f45b7307f6fedd61.m3u8> |
@@ -41,7 +41,7 @@
 | 33 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8> |
 | 34 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv> |
 
-Updated at **1/24/2026 12:31:23 AM**
+Updated at **1/25/2026 12:25:55 AM**
 
 ## 使用说明
 

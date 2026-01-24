@@ -41,7 +41,7 @@ https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a
 https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
 #EXTINF:-1 tvg-name="snaap!" tvg-id="" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/img/logo/1_255.jpg" group-title="其它",[BD]snap
 https://stream1.freetv.fun/1dad0882045d6c9065bc63bc343aeb79d12a7bc07104336818f2b841c1fae70b.m3u8
-#EXTINF:-1 tvg-name="明珠" tvg-id="" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="电影",[BD]明珠
+#EXTINF:-1 tvg-name="明珠" tvg-id="" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="电影",[SD]明珠
 https://stream1.freetv.fun/9355776363cced50b636fb90bd1d63ba128a62b87206583d553b215847a74d2d.ctv
 #EXTINF:-1 tvg-name="明珠台(备)" tvg-id="368369" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="电影",[BD]明珠
 https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
