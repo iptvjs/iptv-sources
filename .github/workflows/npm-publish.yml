@@ -56,7 +56,7 @@ jobs:
           git config --local user.email "28900094+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "HeFung"
           git add .
-          git commit -m "bing wallpaper project Update: `TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S'`"
+          git commit -m "iptv sources project Update: `TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S'`"
 
       - name: Push project 🚀
         if: steps.verify_diff.outputs.changed == 'true'
