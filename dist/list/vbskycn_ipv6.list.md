@@ -6,10 +6,10 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 支持作者 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rkaittufsdv0rnx6/sc/cae_h264/1762869859154419128/mda-rkaittufsdv0rnx6.mp4> |
-| 2 | 2026-02-16 00:27:10 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rkaittufsdv0rnx6/sc/cae_h264/1762869859154419128/mda-rkaittufsdv0rnx6.mp4> |
+| 1 | 支持作者 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4> |
+| 2 | 2026-02-17 00:27:44 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4> |
 
-Updated at **2/16/2026 12:31:24 AM**
+Updated at **2/17/2026 12:43:50 AM**
 
 ## 使用说明
 
