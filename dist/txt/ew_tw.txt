@@ -5,7 +5,7 @@
 [BD]global_trekker,https://stream1.freetv.fun/c22d5867e7fcf3b5a13cf90a7f6423dcadd9f2a3b768e758b352ab3fb04d9c54.m3u8
 [HD]ช่อง_hgtv,https://stream1.freetv.fun/a857a9066d450f3c32451de2a3494e9c2b60fdf56de85dbcfc3b4e8a0590f7cd.m3u8
 [BD]love_nature,https://stream1.freetv.fun/b0000c4eb57bda1a3b5648b80522cabcc1bb196fb9ad2f34bc1e58b1608855a1.m3u8
-[HD]smithsonian_channel_selects,https://stream1.freetv.fun/96df137b3ba9a20f10a6133b5f7a21ebb0ae6ad1a185c1c5f6ef88c84a914d48.m3u8
+[SD]smithsonian_channel_selects,https://stream1.freetv.fun/96df137b3ba9a20f10a6133b5f7a21ebb0ae6ad1a185c1c5f6ef88c84a914d48.m3u8
 
 音乐,#genre#
 [HD]alvin_channel_tv,https://stream1.freetv.fun/2eed4e338fe4d932dbfcb2da5a9a3bad25ad4c32e318af474f19bba59980d6cf.m3u8
@@ -33,9 +33,9 @@
 电影,#genre#
 [SD]bflix_movies,https://stream1.freetv.fun/2fda0dbc8ad206b2ea146eca06e1ae4c228af479c5eb9e98fe39f28b3a634661.m3u8
 [SD]hollywood,https://stream1.freetv.fun/4f1224450a344f842cfe4c403593b22a393dc6791e6f469e45c1a24365d08bf5.ctv
-[BD]rock,https://stream1.freetv.fun/73a0592f5f92e7875e7aca88572eeb60a4f95f3d6f1a251248da8892a863d751.ctv
 [HD]gold_star,https://stream1.freetv.fun/63600a71ad76448e69fc83a8d3c9bf63fb3b43635ffdb15edd4f65b03cc02d29.m3u8
 [BD]三立戏剧,https://stream1.freetv.fun/ca373f72a58fbaa7d7f60f5e91383eb0fd3a4965a74ce46f89f6e660b6b3c2e9.ctv
+[HD]东森电影,https://stream1.freetv.fun/45a0f78f58b360078097c8797db3cc4f98fc98a5382df97f74b1674c56d2b8aa.m3u8
 [BD]经典电影,https://stream1.freetv.fun/2468c7e34ca09c24e5c170085819e94e53b00bf19824b2c7064f62d1a7acdc78.m3u8
 [BD]靖天映画,https://stream1.freetv.fun/0864058ec04ec30d97650ab00f4f78c094c0c88f5c79f141c0292f525cf29ea1.m3u8
 
