@@ -62,7 +62,6 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 
 Kids,#genre#
 BRTV_Kaku_Childrens_Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
-CCTV-14_(2160p),http://123.175.209.52:9003/hls/15/index.m3u8
 JiaJia_Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
 Toonmax_TV,http://49.113.179.174:4022/udp/238.125.4.28:5140
 山东少儿_(406p),http://livealone302.iqilu.com/iqilu/sepd.m3u8
