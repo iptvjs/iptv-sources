@@ -76,7 +76,7 @@
 | 68 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 | 69 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
 
-Updated at **3/13/2026 7:03:40 PM**
+Updated at **3/14/2026 12:40:37 AM**
 
 ## 使用说明
 
