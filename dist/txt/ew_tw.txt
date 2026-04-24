@@ -2,7 +2,7 @@
 [BD]amc电影,https://stream1.freetv.fun/f78ff1e484b79f13f26a2863929a81959551bbce10c86a293620ec8f19238480.ctv
 [BD]CatchPlay,https://stream1.freetv.fun/80c7474b9f8cd2621002cfb554359da133337c3bb17efd74518fdbd691d16c7c.m3u8
 [SD]HBO,https://stream1.freetv.fun/34cc7a8888e5bf09f96a5afb4df92518deb325118844f1acc96a4a7d03cfb5a7.m3u8
-[SD]hollywood,https://stream1.freetv.fun/95a8b50ee9ca6c3c94b6bdf5ac8fcbbbea9de08e4eaa4ec3263f37b0c9a8a9d2.m3u8
+[BD]Hollywood_#sf,https://stream1.freetv.fun/2004289d187f77788a1e82f104f3be36f8df77ee7b579ce8679337a5c0a40c58.m3u8
 [BD]rock,https://stream1.freetv.fun/73a0592f5f92e7875e7aca88572eeb60a4f95f3d6f1a251248da8892a863d751.m3u8
 [HD]gold_star,https://stream1.freetv.fun/63600a71ad76448e69fc83a8d3c9bf63fb3b43635ffdb15edd4f65b03cc02d29.m3u8
 [BD]公视戏剧,https://stream1.freetv.fun/5d7f7cd3ae208653f25e1f78ef7f4684b10b37f034002f7566d045a779fe1cdf.ctv

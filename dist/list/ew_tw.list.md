@@ -25,7 +25,7 @@
 | 17 | [HD]ช่อง food network | stream1.freetv.fun | <https://stream1.freetv.fun/e7006988906b48e6dd490bb7da375a10fc5746ee8536c3bcf9120c9a4d35c459.m3u8> |
 | 18 | [SD]HBO | stream1.freetv.fun | <https://stream1.freetv.fun/34cc7a8888e5bf09f96a5afb4df92518deb325118844f1acc96a4a7d03cfb5a7.m3u8> |
 | 19 | [HD]hgtv west | stream1.freetv.fun | <https://stream1.freetv.fun/4acf1ea482c9c0dda21b39ab65c49cee34e62de396844162498af63ec80e728b.ctv> |
-| 20 | [SD]hollywood | stream1.freetv.fun | <https://stream1.freetv.fun/95a8b50ee9ca6c3c94b6bdf5ac8fcbbbea9de08e4eaa4ec3263f37b0c9a8a9d2.m3u8> |
+| 20 | [BD]Hollywood #sf | stream1.freetv.fun | <https://stream1.freetv.fun/2004289d187f77788a1e82f104f3be36f8df77ee7b579ce8679337a5c0a40c58.m3u8> |
 | 21 | [HD]ช่อง lifetime | stream1.freetv.fun | <https://stream1.freetv.fun/de99a34f3cdceebc1874bba4e018ddc9f84f4822b58a1385db12216ff0559f87.m3u8> |
 | 22 | [BD]liveabc互动英语 | stream1.freetv.fun | <https://stream1.freetv.fun/2220207d56f5e5aab9759cabfdb501388e0291669cad9469e0758a79d69df675.m3u8> |
 | 23 | [BD]love nature | stream1.freetv.fun | <https://stream1.freetv.fun/b0000c4eb57bda1a3b5648b80522cabcc1bb196fb9ad2f34bc1e58b1608855a1.m3u8> |
@@ -149,7 +149,7 @@
 | 141 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv> |
 | 142 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **4/24/2026 1:20:21 AM**
+Updated at **4/25/2026 12:57:30 AM**
 
 ## 使用说明
 
