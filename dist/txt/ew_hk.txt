@@ -22,10 +22,10 @@
 [BD]hoy_tv,https://stream1.freetv.fun/46e229877cf43dbe3bb518a02d3f4dbd2b2288cf9b54b191145786eebf1a2648.ctv
 [BD]now新闻,https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8
 [HD]rthk_32,https://stream1.freetv.fun/6293c65392dc2022f8a7b1f492f09dc41eea5a09ebe9c8ef1ec3a0d9c4065b69.ctv
-[BD]港台电视_32,https://stream1.freetv.fun/095e0fbddd7f83951ec8bfefd84d7bc686b37471cac33cd388502184f6bd105b.ctv
+[HD]港台电视32高清,https://stream1.freetv.fun/85052a54e4a065a12c2f02c2544ab965d6ebf5c21b43f047e22736b23836b47a.ctv
 [BD]无线新闻,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-wxxw
 [BD]无线新闻,https://stream1.freetv.fun/9226b0d3b99778a509e911ce89c6a95ab011763c6cea4b2f682e76b6659a52d7.ctv
-[BD]凤凰卫视资讯,https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
+[HD]凤凰卫视资讯,https://stream1.freetv.fun/c3ea4ea86c58594aa80ca15cbc03968e7481243ea39ad553e617442c6017362a.m3u8
 
 知识,#genre#
 [HD]discovery_kids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv
@@ -48,5 +48,5 @@
 
 综合,#genre#
 [HD]翡翠,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.ctv
-[BD]凤凰卫视中文,https://stream1.freetv.fun/abf0dd89a3d8030e6464e736ad8b2c92c562eee2c9e491fa324de6b5d50b558a.ctv
-[VGA]凤凰香港,https://stream1.freetv.fun/de73fec89305dacef19eafcb697172c30729dd00897cb0d30c80affbb3a582e9.ctv
+[BD]凤凰卫视中文,https://stream1.freetv.fun/2d974525773570a12819a6597a3b0349bd9856ea05c91633862035caed14376d.ctv
+[HD]凤凰卫视香港,https://stream1.freetv.fun/befd2cea5524857b26687c6c5ede8b698f02c45d4ae98400ee0fdf0b7f358de1.m3u8

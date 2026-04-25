@@ -36,15 +36,15 @@
 | 28 | [BD]明珠 | stream1.freetv.fun | <https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv> |
 | 29 | [SD]星空卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ec98a9ccdf617ca10e287a87558d44b94346626aea3863392cc314b0fe235dfc.m3u8> |
 | 30 | [HD]港台电视31高清 | stream1.freetv.fun | <https://stream1.freetv.fun/f949dc5cc37d26e396ca35685a1d15c07f901902d43fc812879f722eba1c1b33.ctv> |
-| 31 | [BD]港台电视 32 | stream1.freetv.fun | <https://stream1.freetv.fun/095e0fbddd7f83951ec8bfefd84d7bc686b37471cac33cd388502184f6bd105b.ctv> |
+| 31 | [HD]港台电视32高清 | stream1.freetv.fun | <https://stream1.freetv.fun/85052a54e4a065a12c2f02c2544ab965d6ebf5c21b43f047e22736b23836b47a.ctv> |
 | 32 | [BD]无线新闻 | oc-play-ali.vipkid.com.cn | <rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-wxxw> |
 | 33 | [BD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/9226b0d3b99778a509e911ce89c6a95ab011763c6cea4b2f682e76b6659a52d7.ctv> |
 | 34 | [HD]翡翠 | stream1.freetv.fun | <https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.ctv> |
-| 35 | [BD]凤凰卫视中文 | stream1.freetv.fun | <https://stream1.freetv.fun/abf0dd89a3d8030e6464e736ad8b2c92c562eee2c9e491fa324de6b5d50b558a.ctv> |
-| 36 | [BD]凤凰卫视资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv> |
-| 37 | [VGA]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/de73fec89305dacef19eafcb697172c30729dd00897cb0d30c80affbb3a582e9.ctv> |
+| 35 | [BD]凤凰卫视中文 | stream1.freetv.fun | <https://stream1.freetv.fun/2d974525773570a12819a6597a3b0349bd9856ea05c91633862035caed14376d.ctv> |
+| 36 | [HD]凤凰卫视资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/c3ea4ea86c58594aa80ca15cbc03968e7481243ea39ad553e617442c6017362a.m3u8> |
+| 37 | [HD]凤凰卫视香港 | stream1.freetv.fun | <https://stream1.freetv.fun/befd2cea5524857b26687c6c5ede8b698f02c45d4ae98400ee0fdf0b7f358de1.m3u8> |
 
-Updated at **4/25/2026 12:57:30 AM**
+Updated at **4/26/2026 12:41:39 AM**
 
 ## 使用说明
 
