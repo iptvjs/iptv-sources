@@ -20,12 +20,12 @@
 [BD]cctv1,https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv
 [BD]*hoy_tv,https://stream1.freetv.fun/b80dbf3157f6bbba06a4c5b0c740f55b07936dacf6575c1f79eb41b4a014e125.ctv
 [BD]*hoy资讯,https://stream1.freetv.fun/d80bb70fe04d2ae12e15252801bf11c95a42b8d88e2d19b09f3be713f44bd187.ctv
-[BD]now新闻,https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.ctv
+[SD]now新闻,https://stream1.freetv.fun/2e7d4aaaacf82963b4e0d0f1fd04b6f4154066da3bd649d8b87f6cf224b99ee8.ctv
 [HD]rthk_32,https://stream1.freetv.fun/6293c65392dc2022f8a7b1f492f09dc41eea5a09ebe9c8ef1ec3a0d9c4065b69.ctv
 [HD]港台电视32高清,https://stream1.freetv.fun/85052a54e4a065a12c2f02c2544ab965d6ebf5c21b43f047e22736b23836b47a.ctv
 [BD]无线新闻,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.m3u8
 [BD]无线新闻台高清,https://stream1.freetv.fun/f9c84ee7bdfded7b49b5a24695a6684a1cab0d17b77f8fbf0578695ca743c427.ctv
-[SD]凤凰卫视资讯,https://stream1.freetv.fun/c3ea4ea86c58594aa80ca15cbc03968e7481243ea39ad553e617442c6017362a.ctv
+[BD]凤凰卫视资讯,https://stream1.freetv.fun/2a1e1ad95fc891d372057e23222ca1efe7b3947fc1fdc803b9676435b6a798db.ctv
 
 知识,#genre#
 [HD]discovery_kids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv
@@ -36,7 +36,7 @@
 [BD]tvbs亚洲,https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8
 [BD]tvb星河,https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
 [HD]tvb华丽,https://stream1.freetv.fun/10e310c5f0a1dc8c0c5d76a0800a0d2950687756864f9885429ed0d9868ffd1e.ctv
-[BD]戏曲,https://stream1.freetv.fun/2b7145a9e573a151f8ca0a00076085d845b2c82f767e70a5a76252bc0e04e93e.ctv
+[SD]戏曲,https://stream1.freetv.fun/2b7145a9e573a151f8ca0a00076085d845b2c82f767e70a5a76252bc0e04e93e.ctv
 [BD]明珠,https://stream1.freetv.fun/9355776363cced50b636fb90bd1d63ba128a62b87206583d553b215847a74d2d.ctv
 [BD]明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
 
