@@ -6,9 +6,9 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 2026-05-17 00:39:03 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4> |
+| 1 | 2026-05-18 00:39:11 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4> |
 
-Updated at **5/17/2026 12:58:33 AM**
+Updated at **5/18/2026 12:57:06 AM**
 
 ## 使用说明
 
