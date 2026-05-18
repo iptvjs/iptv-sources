@@ -1,3 +1,6 @@
+其它,#genre#
+[HD]营山,rtmp://tv.drs.ysxtv.cn/channellive/ystv-bak
+
 运动,#genre#
 [HD]dazn1,rtmp://f13h.mine.nu/sat/tv731
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721

@@ -1,3 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="内江综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722142242811328_18.png" group-title="综合",[HD]内江新闻
 rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800
+#EXTINF:-1 tvg-name="杭州影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530221936596312_83.jpg" group-title="电影",[BD]杭州4影视高清
+https://stream1.freetv.fun/63bf9cd966d86ed604f90807e56a0f193481d4d9615ed899f6890d8b2fd78715.ctv
+#EXTINF:-1 tvg-name="浙江少儿频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719123643125638_97.jpg" group-title="儿童",[BD]浙江少儿高清
+https://stream1.freetv.fun/e09a9ab384a4ac3caef56d4d4d8106d7e0a0fd2613e528d3e0322ff55c99b08b.ctv
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530221028154749_27.jpg" group-title="综合",[BD]浙江民生休闲高清
+https://stream1.freetv.fun/592a161d721e5bcdce56786e9a143e766304854fa6abd343e37f2171f09131cd.ctv
