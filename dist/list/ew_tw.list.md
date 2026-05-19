@@ -20,7 +20,7 @@
 | 12 | [HD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
 | 13 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **5/19/2026 2:00:36 AM**
+Updated at **5/20/2026 2:05:20 AM**
 
 ## 使用说明
 
