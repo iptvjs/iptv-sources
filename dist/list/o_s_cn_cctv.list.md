@@ -22,7 +22,7 @@
 | 14 | CCTV-Culture of Quality (1080p) | IPv4 直链 | <http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub> |
 | 15 | CCTV-Storm Football (1080p) | IPv4 直链 | <http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub> |
 
-Updated at **5/28/2026 2:26:02 AM**
+Updated at **5/29/2026 2:36:58 AM**
 
 ## 使用说明
 
