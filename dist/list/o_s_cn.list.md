@@ -28,7 +28,7 @@
 | 20 | CCTV-3 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv3hd.m3u8> |
 | 21 | CCTV-4 Asia (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv4hd.m3u8> |
 | 22 | CCTV-4K (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv4k.m3u8> |
-| 23 | CCTV-5 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv5hd.m3u8> |
+| 23 | CCTV-5 (1080p) | IPv4 直链 | <http://192.151.150.154/live/cctv5hd.m3u8> |
 | 24 | CCTV-5+ (720p) | IPv4 直链 | <http://192.151.150.154/live/cctv5p.m3u8> |
 | 25 | CCTV-6 (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv6.m3u8> |
 | 26 | CCTV-7 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv7hd.m3u8> |
@@ -403,7 +403,7 @@
 | 395 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 396 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **6/4/2026 3:48:53 AM**
+Updated at **6/5/2026 2:15:09 AM**
 
 ## 使用说明
 
