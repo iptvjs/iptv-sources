@@ -23,10 +23,10 @@
 | 15 | [BD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv> |
 | 16 | [BD]翡翠 | stream1.freetv.fun | <https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv> |
 | 17 | [HD]凤凰卫视中文 | stream1.freetv.fun | <https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv> |
-| 18 | [BD]凤凰卫视资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/775da45dedb5d0e2186c592c1a582aabe6893f527089d022ba7104e2471c96cf.ctv> |
+| 18 | [HD]凤凰卫视资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/f690170414a3ba9ddf0bbff3d2a1deeeccc37ab6c9198cd270d404412200f38c.ctv> |
 | 19 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/ada32bf1237524edb183dcdef8285a2da3dd390b3d59be112c09d1a9c38c1077.m3u8> |
 
-Updated at **6/19/2026 2:25:38 AM**
+Updated at **6/20/2026 1:57:49 AM**
 
 ## 使用说明
 

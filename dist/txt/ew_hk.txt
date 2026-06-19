@@ -11,7 +11,7 @@
 [BD]hoytv,https://stream1.freetv.fun/a8a4700097401627b1a4c2b7e0ffa7f9077c33e3f37cc362d77403dccf954d24.ctv
 [BD]now新闻,https://stream1.freetv.fun/20616f66b86683e10fd7ea8e601cf70ac08ba2a8b3c17241fcf398fcdec43753.ctv
 [BD]无线新闻,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
-[BD]凤凰卫视资讯,https://stream1.freetv.fun/775da45dedb5d0e2186c592c1a582aabe6893f527089d022ba7104e2471c96cf.ctv
+[HD]凤凰卫视资讯,https://stream1.freetv.fun/f690170414a3ba9ddf0bbff3d2a1deeeccc37ab6c9198cd270d404412200f38c.ctv
 
 知识,#genre#
 [HD]discovery_kids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv
