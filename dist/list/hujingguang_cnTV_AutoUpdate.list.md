@@ -55,30 +55,32 @@
 | 47 | JP1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8> |
 | 48 | KPop | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8> |
 | 49 | 民视新闻HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8> |
-| 50 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1782028800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-15a67261a2690698cf7690763e7ff929&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
-| 51 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
-| 52 | CCTV-9 纪录 | v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com | <https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=924cc916428a47bd186b2f1121afbff5> |
-| 53 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
-| 54 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
-| 55 | CGNT 记录频道 | CGTN | <https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8> |
-| 56 | CGNT 新闻频道 | CGTN | <https://english-livebkali.cgtn.com/live/encgtn_0.m3u8> |
-| 57 | 浙江卫视 | 浙江广播电视集团 | <http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1781621546-11f360f9e9d52a5b1824e6f7f17dafdf-0-921c8776fc5a23f0cb85e43d1d28af92> |
-| 58 | 凤凰资讯 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8> |
-| 59 | 凤凰中文 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8> |
-| 60 | 安徽卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/anhui_2/index.m3u8> |
-| 61 | 辽宁卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8> |
-| 62 | 江西卫视 | jsp-tv-live.jxtvcn.com.cn | <https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?t=1781622430&token=19af5604-f5b6-4216-a2a2-7d640a0cdf4d&d=b18b3daf2804412aae333505d1a337e9> |
-| 63 | 云南卫视 | p2.ioioz.com | <http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8> |
-| 64 | 河南卫视 | 河南广播网 | <https://tvcdn.stream3.hndt.com/tv/5ac303a60191100084c3921d00000000_transios/playlist.m3u8?wsSecret=375cf1dfcc36ee7fd00a22996d2eb505&wsTime=1781554482> |
-| 65 | 广东卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8> |
-| 66 | 河北卫视 | tv.pull.hebtv.com | <https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1781626337&k=8ffa9385dd88f0e9ea88bc23045bd5f1> |
-| 67 | 广西卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8> |
-| 68 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/w59Yw00.m3u8> |
-| 69 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-nl-tJQ158.m3u8> |
-| 70 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
-| 71 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
+| 50 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
+| 51 | CCTV-9 纪录 | v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com | <https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a1cae0c47d142368b8703cb593979647> |
+| 52 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
+| 53 | CCTV-15 音乐 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8> |
+| 54 | CCTV-16 4K | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8> |
+| 55 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
+| 56 | CGNT 记录频道 | CGTN | <https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8> |
+| 57 | CGNT 新闻频道 | CGTN | <https://english-livebkali.cgtn.com/live/encgtn_0.m3u8> |
+| 58 | 浙江卫视 | 浙江广播电视集团 | <http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1781621546-11f360f9e9d52a5b1824e6f7f17dafdf-0-921c8776fc5a23f0cb85e43d1d28af92> |
+| 59 | 凤凰资讯 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8> |
+| 60 | 凤凰中文 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8> |
+| 61 | 安徽卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/anhui_2/index.m3u8> |
+| 62 | 辽宁卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8> |
+| 63 | 江西卫视 | jsp-tv-live.jxtvcn.com.cn | <https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?t=1781622430&token=19af5604-f5b6-4216-a2a2-7d640a0cdf4d&d=b18b3daf2804412aae333505d1a337e9> |
+| 64 | 云南卫视 | p2.ioioz.com | <http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8> |
+| 65 | 四川卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8> |
+| 66 | 河南卫视 | 河南广播网 | <https://tvcdn.stream3.hndt.com/tv/5ac303a60191100084c3921d00000000_transios/playlist.m3u8?wsSecret=375cf1dfcc36ee7fd00a22996d2eb505&wsTime=1781554482> |
+| 67 | 广东卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8> |
+| 68 | 河北卫视 | tv.pull.hebtv.com | <https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1781626337&k=8ffa9385dd88f0e9ea88bc23045bd5f1> |
+| 69 | 广西卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8> |
+| 70 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/w59Yw00.m3u8> |
+| 71 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-nl-tJQ158.m3u8> |
+| 72 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
+| 73 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
 
-Updated at **6/21/2026 1:26:17 AM**
+Updated at **6/22/2026 1:27:51 AM**
 
 ## 使用说明
 
