@@ -21,7 +21,6 @@
 [BD]viutvsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8
 [BD]星空卫视,https://stream1.freetv.fun/c3d08bbe948ea633ff25ef85c58fce107ca940c1c5027c7bf283438f4d84fe6c.ctv
 [BD]有线综合,https://stream1.freetv.fun/c931c468916f80ff3657c4370b12b6fad1e79162f34bd99a5bd1e04e9e6f1923.ctv
-[HD]香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.ctv
 
 新闻,#genre#
 [HD]cctv-1,https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.m3u8
@@ -38,8 +37,7 @@
 [HD]discovery_kids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv
 
 世界杯,#genre#
-[BD]now_sports_618,https://stream1.freetv.fun/fabadc33b2c8837b2b8cdf5ecf3eb70018705b0feea6be41720044f711685535.ctv
-[BD]now_sports_619,https://stream1.freetv.fun/134a68bd69a4c678d0ab4c2041c251e4e1e4b75f9a9295ef28424e4816d8631d.ctv
+[BD]now_618hd,https://stream1.freetv.fun/a3a7ac3c641bb4396e4b7e718e750c35a8de338a7ae806916716c51b6c443160.ctv
 
 运动,#genre#
 [BD]cowboy_plus_sports,https://stream1.freetv.fun/0b65b2e6bc0d268067903f464b33e747d82e541980bf3c77cdbc1ee6e488f1fe.m3u8
