@@ -12,8 +12,8 @@ importers:
         specifier: ^16.6.1
         version: 16.6.1
       opencc-js:
-        specifier: ^1.3.2
-        version: 1.3.2
+        specifier: ^1.4.0
+        version: 1.4.0
       tsup:
         specifier: ^8.5.1
         version: 8.5.1(typescript@5.9.3)
@@ -432,8 +432,8 @@ packages:
     resolution: {integrity: sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==}
     engines: {node: '>=0.10.0'}
 
-  opencc-js@1.3.2:
-    resolution: {integrity: sha512-lO4Kq8J4TcPTa8qHcx5qazQCn+NM68kNwLJOQ58DG9MV8v25XJxByMB74zDGmr3LjJMGqDdrvQfoCi3FO0SC2A==}
+  opencc-js@1.4.0:
+    resolution: {integrity: sha512-SEb4huI5+lT4CFPA4sgs+NAOOgpcmdHZ+vYxhRLR1bQWIt6VRwpFPjWgTJAWAg1MviDcXTBe5zVoUOVxVxNK8w==}
 
   pathe@2.0.3:
     resolution: {integrity: sha512-WUjGcAqP1gQacoQe+OBJsFA7Ld4DyXuUIjZ5cc75cLHvJ7dtNsTugphxIADwspS+AraAUePCKrSVtPLFj/F88w==}
@@ -441,8 +441,8 @@ packages:
   picocolors@1.1.1:
     resolution: {integrity: sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==}
 
-  picomatch@4.0.4:
-    resolution: {integrity: sha512-QP88BAKvMam/3NxH6vj2o21R6MjxZUAd6nlwAS/pnGvN9IVLocLHxGYIzFhg6fUQ+5th6P4dv4eW9jX3DSIj7A==}
+  picomatch@4.0.5:
+    resolution: {integrity: sha512-RvwwcruNjI1ncT5xRakeyS9Lf8lcItv34KD+aif+VH9kduAyfYBipGh12274xtenIPZ119/R9BdTBa8gAwSh0A==}
     engines: {node: '>=12'}
 
   pirates@4.0.7:
@@ -767,9 +767,9 @@ snapshots:
       '@esbuild/win32-ia32': 0.27.7
       '@esbuild/win32-x64': 0.27.7
 
-  fdir@6.5.0(picomatch@4.0.4):
+  fdir@6.5.0(picomatch@4.0.5):
     optionalDependencies:
-      picomatch: 4.0.4
+      picomatch: 4.0.5
 
   fix-dts-default-cjs-exports@1.0.1:
     dependencies:
@@ -809,13 +809,13 @@ snapshots:
 
   object-assign@4.1.1: {}
 
-  opencc-js@1.3.2: {}
+  opencc-js@1.4.0: {}
 
   pathe@2.0.3: {}
 
   picocolors@1.1.1: {}
 
-  picomatch@4.0.4: {}
+  picomatch@4.0.5: {}
 
   pirates@4.0.7: {}
 
@@ -888,8 +888,8 @@ snapshots:
 
   tinyglobby@0.2.17:
     dependencies:
-      fdir: 6.5.0(picomatch@4.0.4)
-      picomatch: 4.0.4
+      fdir: 6.5.0(picomatch@4.0.5)
+      picomatch: 4.0.5
 
   tree-kill@1.2.2: {}
 
