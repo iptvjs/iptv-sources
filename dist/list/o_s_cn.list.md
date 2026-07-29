@@ -382,7 +382,7 @@
 | 374 | Lanzhou Comprehensive News Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8> |
 | 375 | Lanzhou Culture & Tourism Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8> |
 
-Updated at **7/29/2026 1:26:52 AM**
+Updated at **7/30/2026 1:14:06 AM**
 
 ## 使用说明
 
