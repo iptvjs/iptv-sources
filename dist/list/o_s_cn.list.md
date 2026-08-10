@@ -387,7 +387,7 @@
 | 379 | Dragon TV International | restream.pdtvhd.com | <https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8> |
 | 380 | CCTV-5+ | myip.pdtvhd.com | <https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8> |
 
-Updated at **8/10/2026 12:34:12 AM**
+Updated at **8/11/2026 12:52:55 AM**
 
 ## 使用说明
 
