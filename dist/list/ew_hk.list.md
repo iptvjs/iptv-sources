@@ -34,9 +34,8 @@
 | 26 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.m3u8> |
 | 27 | [SD]凤凰电影 *$ | stream1.freetv.fun | <https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8> |
 | 28 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/ada32bf1237524edb183dcdef8285a2da3dd390b3d59be112c09d1a9c38c1077.m3u8> |
-| 29 | [BD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/bedd12b5e35ca590f97dba15b55825b71c6a066cc95328f49b2d92c23927b910.ctv> |
 
-Updated at **8/13/2026 12:55:47 AM**
+Updated at **8/14/2026 12:55:26 AM**
 
 ## 使用说明
 

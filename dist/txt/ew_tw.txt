@@ -5,7 +5,7 @@
 [BD]影迷数位电影,https://stream1.freetv.fun/1931af946b458be7984837b583cf4b25335b7f6565ec0750fe5437e18ca90107.ctv
 [HD]成龙电影_*$,https://stream1.freetv.fun/88e23968b0f42c4e50128ce380d73b2cf622f2518dcf4f3d65bbb5e62648859d.m3u8
 [BD]民视影剧,https://stream1.freetv.fun/bb905decbdfde44a3f5d4f02bcb401896c501939ce58fbfe8ecbf3141de03b74.ctv
-[BD]经典电影,https://stream1.freetv.fun/5c02c5c3aef32c5e3e7568b898ec456729c0a5ce6168947a0d8844433b2f1ea4.ctv
+[HD]经典香港电影,https://stream1.freetv.fun/aa72403ee21188014b4d48c19f6d9b1ca52d877e3151d5e2273952d3f52012ba.ctv
 [HD]美亚电影,https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
 [BD]采昌影剧,https://stream1.freetv.fun/6c3e839d4cc308eb11dc2e0fc1d73d5a8ae7fdff2267987b4c847c3ecb7187a5.ctv
 [BD]靖天戏剧,https://stream1.freetv.fun/ab345d8eecb182b797904e74f15795171ebdc274d43ce5b4d83be3bc56d83f64.ctv
@@ -38,9 +38,8 @@
 [HD]人间卫视,https://stream1.freetv.fun/1f63ffacdc4c93b5736f59829aac1fccdf3df1e37bf8ba95c258b6e7d946d8a7.m3u8
 
 综艺,#genre#
-[HD]lifetime,https://stream1.freetv.fun/d7cba25b1671760295246d0866ae5a329ee7e5a55d472b2ee191b12c2b9c5f99.m3u8
+[BD]lifetime,https://stream1.freetv.fun/d7cba25b1671760295246d0866ae5a329ee7e5a55d472b2ee191b12c2b9c5f99.m3u8
 [BD]amazing_facts_tv,https://stream1.freetv.fun/80792e1c67d6543efd2ac60e6bf14410832202c8759d4d47273039d9f022bd8f.m3u8
-[BD]tvbs精采,https://stream1.freetv.fun/678c7d57713c21f0c425ea02b8ab2a10abe31bdec85ef76c0d38750c7896b67f.ctv
 [HD]中天娱乐,https://stream1.freetv.fun/4b33f82cc14d5cb886a46dd99cef3eac6ef7619baa4e80ed3a097e5bf92131d4.m3u8
 [HD]纬来日本,rtmp://f13h.mine.nu/sat/tv771
 [BD]金光布袋戏,https://stream1.freetv.fun/a64a8bc8f1e401e1c12604a5b79d19edca054bd552bfad27c8807788c7289b46.ctv

@@ -10,7 +10,6 @@
 [BD]明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
 [BD]林正英影院_*$,https://stream1.freetv.fun/34b9e858a6ac4dbf8019192458fe6c81c77298a350702158b8182ac937f47235.m3u8
 [SD]凤凰电影_*$,https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8
-[BD]黄金华剧,https://stream1.freetv.fun/bedd12b5e35ca590f97dba15b55825b71c6a066cc95328f49b2d92c23927b910.ctv
 
 儿童,#genre#
 [HD]cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.m3u8
