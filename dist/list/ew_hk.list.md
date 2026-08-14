@@ -35,7 +35,7 @@
 | 27 | [SD]凤凰电影 *$ | stream1.freetv.fun | <https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8> |
 | 28 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/ada32bf1237524edb183dcdef8285a2da3dd390b3d59be112c09d1a9c38c1077.m3u8> |
 
-Updated at **8/14/2026 12:55:26 AM**
+Updated at **8/15/2026 12:51:41 AM**
 
 ## 使用说明
 
