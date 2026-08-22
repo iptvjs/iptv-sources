@@ -342,7 +342,7 @@
 | 334 | China Travel (1080p) | CCTV+ | <https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8> |
 | 335 | Fujian Comprehensive Channel | IPv4 直链 | <http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88> |
 
-Updated at **8/22/2026 12:33:14 AM**
+Updated at **8/23/2026 12:22:33 AM**
 
 ## 使用说明
 
