@@ -1,6 +1,8 @@
+音乐,#genre#
+[SD]channel_s,https://stream1.freetv.fun/7a28dcbcaf1436442e450321031f1e0f13e51e5972651ad17cd58798868b3872.m3u8
+
 运动,#genre#
 [HD]dazn1,rtmp://f13h.mine.nu/sat/tv731
-[HD]elta体育2,https://stream1.freetv.fun/cfd23588777fb6daf78345b514d27a69668f3da6d4286ba5e1d44e759f97d32c.ctv
 [VGA]cctv4美洲,https://stream1.freetv.fun/42076cf31ff4aa94aac8fe8c9c0637340d1774f8c14ad89a4c2020335dff968c.ctv
 [SD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
@@ -21,7 +23,7 @@
 
 电影,#genre#
 [VGA]经典香港电影,https://stream1.freetv.fun/aa72403ee21188014b4d48c19f6d9b1ca52d877e3151d5e2273952d3f52012ba.ctv
-[HD]美亚电影,https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
+[BD]美亚电影台粤,https://stream1.freetv.fun/8d41d3ea644b0bbe3c856c98d07bba46a00baa239813751b1359512de4336e6d.ctv
 
 综艺,#genre#
 [HD]纬来日本,rtmp://f13h.mine.nu/sat/tv771
