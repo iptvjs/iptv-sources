@@ -23,7 +23,11 @@
 [BD]民视第一,https://stream1.freetv.fun/e4fcbe774413a4dcbd6e0f4cfd4c39b4f9a1989e27df620d654a015cfaf70c93.ctv
 [HD]纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 [BD]华视,rtmp://f13h.mine.nu/sat/tv111
-[BD]华视,https://stream1.freetv.fun/9e49fa5baea048e3f87533024768e5f57910e07663f13efd1ee7d570032f118c.ctv
+[HD]华视,https://stream1.freetv.fun/c12a3bdd6741bbc1ffa235134d0b6a239f3418a339fa80838f91f1cb758eda90.m3u8
+
+其它,#genre#
+[BD]pet_club_tv,https://stream1.freetv.fun/08fd35f18cd1a26fe08be8595efdb627fea3a00f1915d5c68472525eccc3a739.m3u8
+[HD]人间卫视,https://stream1.freetv.fun/9f76ad62b7ac59970b10e209f250df382971823ed12f12459c11d5ca71e0d7b9.m3u8
 
 新闻,#genre#
 [BD]tvbs新闻,https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.m3u8
@@ -40,14 +44,9 @@
 [BD]华视新闻,https://stream1.freetv.fun/d5dff92c6ff7920d3aa0807d26bcd3f7b17f1b4f6b4df10b03f22d070398f3e9.m3u8
 [HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
-其它,#genre#
-[HD]人间卫视,https://stream1.freetv.fun/9f76ad62b7ac59970b10e209f250df382971823ed12f12459c11d5ca71e0d7b9.m3u8
-
 电影,#genre#
 [BD]东森电影,https://stream1.freetv.fun/d3e4ac4a1216587cdcdd680d8ff720735c9fe324388e6e5592a64b61198066b6.ctv
 [VGA]经典香港电影,https://stream1.freetv.fun/aa72403ee21188014b4d48c19f6d9b1ca52d877e3151d5e2273952d3f52012ba.ctv
-[BD]美亚电影台粤,https://stream1.freetv.fun/8d41d3ea644b0bbe3c856c98d07bba46a00baa239813751b1359512de4336e6d.ctv
-[HD]龙华电影,https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv
 
 综艺,#genre#
 [HD]纬来日本,rtmp://f13h.mine.nu/sat/tv771
