@@ -50,7 +50,7 @@
 | 42 | [BD]华视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d5dff92c6ff7920d3aa0807d26bcd3f7b17f1b4f6b4df10b03f22d070398f3e9.m3u8> |
 | 43 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **9/6/2026 1:56:32 AM**
+Updated at **9/7/2026 2:02:56 AM**
 
 ## 使用说明
 
