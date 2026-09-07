@@ -13,7 +13,7 @@
 [SD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
 电影,#genre#
-[BD]young_hollywood,https://stream1.freetv.fun/18720f11dd7c68ada93f44505d36f38eb9c84db63030b27752b60ca0481c33d8.m3u8
+[SD]hollywood_ukraine,https://stream1.freetv.fun/8c37a2f3d653b98216d65ec50d75b1c17dc2b53558764906b6ff160aec87d4a3.m3u8
 [BD]star_movies_select,https://stream1.freetv.fun/9cd3c174e2d8645c5a14e8b17746cb5701d822f3250603152f1550a013ab6e12.m3u8
 [VGA]经典香港电影,https://stream1.freetv.fun/aa72403ee21188014b4d48c19f6d9b1ca52d877e3151d5e2273952d3f52012ba.ctv
 [HD]美亚电影,https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.m3u8
